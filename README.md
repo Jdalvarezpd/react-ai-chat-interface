@@ -4,7 +4,7 @@
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
-> 🔗 **Ver Proyecto en Vivo:** <a href="https://linkedupsales.com/scale-with-clarity/" target="_blank">Scale with Clarity</a>
+> 🔗 **Ver Proyecto en Vivo:** [Scale with Clarity](https://linkedupsales.com/scale-with-clarity/)
 Una solución integral y moderna de Asistencia Conversacional (Chatbot) basada en componentes estructurados de **React** y orquestada lógicamente por flujos automatizados de **n8n**. Este proyecto proporciona una interfaz de usuario fluida, estéticamente impecable y con una experiencia de uso equivalente a las plataformas líderes en Inteligencia Artificial.
 
 ## ✨ Características de Alto Nivel
